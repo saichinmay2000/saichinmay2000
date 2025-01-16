@@ -1,4 +1,4 @@
-<img src="sai_profile_banner" alt="GitHub Banner" width="100%" />
+<img src="sai_profile_banner.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Sai Chinmay, a Technical Innovator 👋🏼:
 🛜 Crafting intelligence with Large Language Models<br>👨🏼‍🎓 Computer Science with AI & ML Graduate<br>👨🏼‍💻 working as a full stack enginner since 2022 <br>🎬 just started with my medium articles on Gen AI Series <i>[Medium](https://saichinmayt.medium.com)</i>
